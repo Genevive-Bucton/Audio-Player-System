@@ -12,17 +12,19 @@
 ## Use case diagram
 1. User
 
-..1. Manage music file.
+   ..1. Manage music file.
 
-..* edit playlist.
+   ..2. edit playlist.
 
-..* make new playlist.
+   ..3. make new playlist.
 
-..* add music.
+   ..4. add music.
 
-..* view all music.
-..* sort the song base on the order which they want to listen.
-..* play music by folders.
+   ..5. view all music.
+
+   ..6. sort the song base on the order which they want to listen.
+
+   ..7. play music by folders.
 
 
 
