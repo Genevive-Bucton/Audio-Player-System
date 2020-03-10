@@ -11,7 +11,7 @@
 
 ## Use case diagram
 1. User
-..* Manage music file.
+..1. Manage music file.
 ..* edit playlist.
 ..* make new playlist.
 ..* add music.
